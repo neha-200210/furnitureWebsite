@@ -30,7 +30,7 @@ function fadeOut(){
   setInterval(loader, 2000);
 }
 window.onload = fadeOut();
-var header = document.querySelector("a0")
+var header = document.querySelector("a")
 header
 header.style.color='blue'
 function getRandomColor(){
